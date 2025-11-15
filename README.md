@@ -28,18 +28,18 @@ Use Fitbit device usage data to understand:
 ##  Project Structure  
 Bellabeat_Case_Study/
  data_cleaned/
- bellabeat_cleaned.csv
+  bellabeat_cleaned.csv
 
-scripts/
- data_cleaning.R,
- visualization.R
+ scripts/
+  data_cleaning.R,
+  visualization.R
 
-visuals/
- dashboard.png,
- R_visuals.png
+ visuals/
+  dashboard.png,
+  R_visuals.png
 
-final_report/
- Bellabeat_CaseStudy_FinalReport.pdf
+ final_report/
+  Bellabeat_CaseStudy_FinalReport.pdf
 
  README.md
 
